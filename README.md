@@ -1,0 +1,1 @@
+The Weather Application is a user-friendly web or mobile app that provides real-time weather information for any location in the world. Users can enter a city name to view the current temperature, weather conditions (like sunny, rainy, or cloudy), humidity, wind speed, and more.
